@@ -1,10 +1,11 @@
 o-packman
 =========
 
-Open Packman Project
+Welcome Open Packman Project
 
 
-prologue
+
+Prologue
 =========
 
 해외 여행을 하다보면 '이거 사다가 한국에서 팔면 좋겠는데?' 하는 물건은 꼭 있다.
@@ -48,6 +49,12 @@ Web Server - 제외
 
 DB Server - MongoDB or MySql
 
+### Authors and Contributors
 
+
+
+### Support or Contact
+
+Check out this documentation or contact babosamo@gmai.com. 
 
 
