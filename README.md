@@ -55,6 +55,6 @@ DB Server - MongoDB or MySql
 
 ### Support or Contact
 
-Check out this documentation or contact babosamo@gmai.com. 
+Check out this documentation or contact babosamo@gmail.com. 
 
 
